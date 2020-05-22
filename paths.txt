@@ -1,0 +1,3 @@
+/home/ioakim/audio_processing_with_kafka/sample_1.mp3
+/home/ioakim/audio_processing_with_kafka/sample_2.mp3
+
